@@ -32,13 +32,21 @@ Click here to open the project:
 
 ---
 
-## Main Resource Used
+## Additional Resources (Research Papers & Blog)
 
-This project is heavily inspired by the tutorial from:
+If you want to learn more about QLoRA, check out these excellent resources:
 
-**Krish Naik (YouTube)**
+- 📄 **QLoRA Research Paper (Official)**
+  https://arxiv.org/pdf/2305.14314.pdf
+- 📝 **QLoRA Explained – W&B Blog**
 
-Tutorial: _Fine-tuning LLaMA-2 using QLoRA_
+      https://wandb.ai/sauravmaheshkar/QLoRA/reports/What-is-QLoRA---Vmlldzo2MTI2OTc5
+
+  This project is heavily inspired by the tutorial from:
+
+- **Krish Naik (YouTube)**
+
+  Tutorial: _Fine-tuning LLaMA-2 using QLoRA_
 
 ---
 
