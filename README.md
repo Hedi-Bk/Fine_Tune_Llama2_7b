@@ -40,7 +40,7 @@ If you want to learn more about QLoRA, check out these excellent resources:
   https://arxiv.org/pdf/2305.14314.pdf
 - 📝 **QLoRA Explained – W&B Blog**
 
-      https://wandb.ai/sauravmaheshkar/QLoRA/reports/What-is-QLoRA---Vmlldzo2MTI2OTc5
+  https://wandb.ai/sauravmaheshkar/QLoRA/reports/What-is-QLoRA---Vmlldzo2MTI2OTc5
 
   This project is heavily inspired by the tutorial from:
 
