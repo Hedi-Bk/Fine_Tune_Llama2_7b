@@ -37,7 +37,7 @@ Click here to open the project:
 If you want to learn more about QLoRA, check out these excellent resources:
 
 - 📄 **QLoRA Research Paper (Official)**
-  https://arxiv.org/pdf/2305.14314.pdf
+  [Arxiv paper](https://arxiv.org/pdf/2305.14314.pdf)
 - 📝 **QLoRA Explained – W&B Blog**
 
   https://wandb.ai/sauravmaheshkar/QLoRA/reports/What-is-QLoRA---Vmlldzo2MTI2OTc5
@@ -61,11 +61,3 @@ If you want to learn more about QLoRA, check out these excellent resources:
 ## License
 
 Free to use for educational purposes.
-
-## 📚 Additional Resources (Research Papers & Blog)
-
-If you want to learn more about QLoRA, check out these excellent resources:
-
-- [Arxiv Paper](https://img.shields.io/badge/Paper-QLoRA-blue?logo=arxiv&style=flat-square)
-- [W&B Blog](https://img.shields.io/badge/Blog-QLoRA-orange?logo=wandb&style=flat-square)
-- [Krish Naik - YouTube](https://img.shields.io/badge/Tutorial-KrishNaik-red?logo=youtube&style=flat-square)
