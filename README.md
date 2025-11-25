@@ -8,7 +8,7 @@ Fine-tuning the **LLaMA-2-7B** model using **QLoRA** on a dataset of **1000 exam
 
 Click here to open the project:
 
-[** Open in Google Colab**](https://colab.research.google.com/drive/1vn2CqUE9M8StV9fk_IcjTArGwPvSYotB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vn2CqUE9M8StV9fk_IcjTArGwPvSYotB)
 
 ---
 
@@ -61,3 +61,11 @@ If you want to learn more about QLoRA, check out these excellent resources:
 ## License
 
 Free to use for educational purposes.
+
+## 📚 Additional Resources (Research Papers & Blog)
+
+If you want to learn more about QLoRA, check out these excellent resources:
+
+- [Arxiv Paper](https://img.shields.io/badge/Paper-QLoRA-blue?logo=arxiv&style=flat-square)
+- [W&B Blog](https://img.shields.io/badge/Blog-QLoRA-orange?logo=wandb&style=flat-square)
+- [Krish Naik - YouTube](https://img.shields.io/badge/Tutorial-KrishNaik-red?logo=youtube&style=flat-square)
