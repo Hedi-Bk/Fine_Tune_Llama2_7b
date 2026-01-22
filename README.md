@@ -1,14 +1,14 @@
 # Fine-Tuning LLaMA-2-7B with QLoRA
 
-Fine-tuning the **LLaMA-2-7B** model using **QLoRA** on a dataset of **1000 examples**, fully executed on **Google Colab**.
+Fine-tuning the **LLaMA-2-7B** model using **QLoRA** on a dataset of **1000 examples**, fully executed on **KAGGLE**.
 
 ---
 
-## Google Colab Notebook
+## Kaggle Notebook
 
 Click here to open the project:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vn2CqUE9M8StV9fk_IcjTArGwPvSYotB)
+[![Open In Kaggle](https://www.kaggle.com/code/bkhedi/huggingface-finetune-llama2)
 
 ---
 
