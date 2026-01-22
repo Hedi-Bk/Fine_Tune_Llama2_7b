@@ -8,7 +8,8 @@ Fine-tuning the **LLaMA-2-7B** model using **QLoRA** on a dataset of **1000 exam
 
 Click here to open the project:
 
-[![Open In Kaggle](https://www.kaggle.com/code/bkhedi/huggingface-finetune-llama2)]
+![Open In Kaggle](https://www.kaggle.com/code/bkhedi/huggingface-finetune-llama2)
+
 
 
 ---
