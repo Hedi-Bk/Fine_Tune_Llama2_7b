@@ -8,7 +8,7 @@ Fine-tuning the **LLaMA-2-7B** model using **QLoRA** on a dataset of **1000 exam
 
 Click here to open the project:
 
-![Open In Kaggle](https://www.kaggle.com/code/bkhedi/huggingface-finetune-llama2)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle)](https://www.kaggle.com/code/bkhedi/huggingface-finetune-llama2)
 
 
 
@@ -27,9 +27,9 @@ Click here to open the project:
 ## Technologies Used
 
 - **LLaMA-2-7B**
-- **QLoRA (HuggingFace PEFT)**
+- **QLoRA**
 - **BitsAndBytes (4-bit NF4 quantization)**
-- **Google Colab**
+- **Kaggle**
 - **Hugging Face Transformers**
 
 ---
@@ -53,7 +53,7 @@ This project is heavily inspired by the tutorial from:
 
 ## Note
 
-> This project was entirely developed on Google Colab (no local code).
+> This project was entirely developed on Kaggle (no local code).
 >
 > The GitHub repository is used only for documentation and project organization.
 
